@@ -1,0 +1,13 @@
+str="Monty Python"
+print str.capitalize()
+print str.count('o')
+print str.startswith('M')
+print str.endswith('n')
+print str.isalnum()
+print str.isalpha()
+print str.islower()
+print str.isupper()
+print str.find('o')
+print str.rfind('o')
+print str.rfind('o',3)
+print len(str)
